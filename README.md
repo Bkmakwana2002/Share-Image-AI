@@ -4,7 +4,7 @@
 
 ## About the project 
 
-It is an web app for generating images using AI through text prompt.
+It is a web app for generating images using AI through text prompt.
 
 ##  Tech Stack Used
 
